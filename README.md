@@ -1,2 +1,3 @@
 # hello-world
-Tutorial because I am clueles
+Tutorial because I am clueless
+No change really, just following the guide
